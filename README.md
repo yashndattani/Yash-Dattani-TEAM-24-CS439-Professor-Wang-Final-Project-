@@ -1,5 +1,5 @@
 # Yash-Dattani-TEAM-24-CS439-Professor-Wang-Final-Project-
-Group 24
+Group 24: Yash Dattani
 # NBA Game Outcome Prediction
 
 ## Overview
